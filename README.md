@@ -1,10 +1,14 @@
-[![GitHub issues](https://img.shields.io/github/issues/KRALYN/PositronV3?style=plastic)](https://github.com/KRALYN/PositronV3/issues) [![GitHub forks](https://img.shields.io/github/forks/KRALYN/PositronV3?style=plastic)](https://github.com/KRALYN/PositronV3/network) [![GitHub stars](https://img.shields.io/github/stars/KRALYN/PositronV3?style=plastic)](https://github.com/KRALYN/PositronV3/stargazers)
+This repository is a fork of the Positron printer by @KRALYN and all credit goes to him!
 
-<p align="center">
-   <img width="120px" height="120x" title="Logo" src="./Media%20and%20logos/Logos/Positron%20V3%20logo%20light.png">
-</p>
+I love the idea of the Positron being a small and portable printer build in a completely new way. But I wanted to make it much simpler and more accessible to more people so I changed the design from scratch to only use standard parts and some laser cut POM plates.
 
----
+I did the first successfull print with this design and now it needs further optimization and that is why I am sharing the design. First things to improve would be the print volume, extruder and housing.
+
+I hope that I can help with my version of the Positron to bring this kind of printer to a broader audience. 
+
+I am the CTO of a 3D-Printer manufacturer but this is a private project for me because I still love to build new types of printers in my spare time. If anybody wants to discuss what it takes to bring this printer to the market dont hesitate to contact me.
+
+Here is the original github project from KRALYN:
 
 # PositronV3 LINKS:::
 
